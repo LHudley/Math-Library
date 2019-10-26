@@ -3,9 +3,9 @@ package net.MathLib.lib;
 public class All_In_One {
 
 
-	//double side, radius, height, length, width, hypot, area, fah, celcius, kelvin;
+	double side, radius, height, length, width, hypot, area, fah, celcius, kelvin;
 
-	//int binary;
+	int binary;
 
 	
 
